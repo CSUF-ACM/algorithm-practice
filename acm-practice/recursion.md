@@ -26,8 +26,8 @@ The following problems all involve recursion will be ranked in terms of difficul
 
 ```c++
 	remove_x("xxnoobSlayerxx");	// noobSlayer  
-	remove_x("existence");	// eistence  
-	remove_x("pancakes");	// pancakes  
+	remove_x("existence");		// eistence  
+	remove_x("pancakes");		// pancakes  
 ```
 
 ### Medium:
