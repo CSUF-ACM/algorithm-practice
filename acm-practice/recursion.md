@@ -73,6 +73,16 @@ void Print_LL(Node* current) {
   Print_LL(current->next);
 }   
 ```
+```c++
+void Delete_LL(Node* temp) {
+  if (temp == NULL) {
+    return;
+  }
+
+  Delete_LL(temp->next);
+  delete temp;
+}
+```
 
 The following will create the linked list of size 10 in the main to the pointer "Head":  
 ```c++
