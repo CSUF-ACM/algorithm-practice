@@ -9,7 +9,7 @@ The following problems all involve recursion will be ranked in terms of difficul
 	Factorial(5);	// 120  
 	Factorial(3);	// 6  
 	Factorial(1);	// 1  
-	Factorial(0);	//1  
+	Factorial(0);	// 1  
 ```
 
 2. exponent_calculator: This is also known and finding the value of something raised to a power. Your function needs to be able to receive the base number, and to what power you are raising it to. The following are examples of the input and output.  
